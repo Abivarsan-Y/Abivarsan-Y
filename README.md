@@ -21,10 +21,12 @@
   - [x] Design custom $6 \times 4$ localized memory mapping matrix.
   - [x] Configure and interconnect 8-Operation Arithmetic Logic Unit (ALU).
   - [x] Debug and resolve hardware execution conflicts inside Multisim binary trees (`.ms12`).
+      
 - [ ] **Milestone 2: Embedded Avionics & Telemetry**
   - [ ] Implement Proportional-Integral-Derivative (PID) loop feedback controllers in C/C++.
   - [ ] Interface Microcontroller Unit (MCU) registers with external sensor arrays (IMU/Gyroscope).
   - [ ] Establish communication pipelines over SPI/I2C protocols.
+        
 - [ ] **Milestone 3: Robotics Integration**
   - [ ] Configure Forward/Inverse Kinematics controllers for automated mechanical arms.
   - [ ] Deploy Robot Operating System (ROS2) nodes for autonomous navigation.
