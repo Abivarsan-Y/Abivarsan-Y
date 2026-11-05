@@ -100,11 +100,11 @@
 ## 📡 Ground Control & Communications
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/abivarsan-yogeswaran-ab4447306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ground Control LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:abivarsan.09@gmail.com">
     <img src="https://img.shields.io/badge/Direct_Comms_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Comms Email" />
   </a>
 </p>
