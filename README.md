@@ -73,26 +73,31 @@
 
 ## 🧰 Engineering Flight Deck & Tech Stack
 
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Core Languages** | `Python` `C` `Java` `C++ (Learning)` `JavaScript (ES6+)` `SQL` `HTML5/CSS3` |
-| **Avionics & Embedded** | `ESP32` `Sensor Integration (Gas/Humidity/PM)` `JSON Pipelines` `MCU Registers` `Digital Logic` |
-| **EDA & Simulation Tools** | `Intel Altera Quartus` `NI Multisim` `Proteus Design Suite` `Waveform Analysis` |
-| **Backend & Databases** | `Spring Boot` `RESTful APIs` `MySQL` `Relational Database Modeling` `Postman` |
-| **DevOps & Workflows** | `Git (Branching, PRs, Merge Conflict Resolution)` `GitHub` `Linux / Bash CLI` `PEP 8` |
+| Domain                     | Technologies & Tooling                                                                          |
+| :------------------------- | :---------------------------------------------------------------------------------------------- |
+| **Core Languages**         | `Python` `C` `Java` `C++ (Learning)` `JavaScript (ES6+)` `SQL` `HTML5/CSS3`                     |
+| **Avionics & Embedded**    | `ESP32` `Sensor Integration (Gas/Humidity/PM)` `JSON Pipelines` `MCU Registers` `Digital Logic` |
+| **EDA & Simulation Tools** | `Intel Altera Quartus` `NI Multisim` `Proteus Design Suite` `Waveform Analysis`                 |
+| **Backend & Databases**    | `Spring Boot` `RESTful APIs` `MySQL` `Relational Database Modeling` `Postman`                   |
+| **DevOps & Workflows**     | `Git (Branching, PRs, Merge Conflict Resolution)` `GitHub` `Linux / Bash CLI` `PEP 8`           |
 
 ---
 
 ## 📊 Live Telemetry Instrument Panel
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abivarsan-Y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flight Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivarsan-Y&layout=compact&theme=tokyonight&hide_border=true" alt="Language Payloads" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abivarsan-Y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flight Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abivarsan-Y&layout=compact&theme=tokyonight&hide_border=true" alt="Language Payloads" width="48%" />
 </p>
 
-### 📈 Flight Mission Activity
+### ⚡ Mission Streak Status
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abivarsan-Y&theme=tokyonight&hide_border=true" alt="System Activity" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Abivarsan-Y&theme=tokyonight&hide_border=true" alt="Flight Streak Telemetry" width="85%" />
+</p>
+
+### 📈 Mission Flight Activity Log
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D2FF/Abivarsan-Y" alt="Flight Grid Telemetry Activity" width="100%" />
 </p>
 
 ---
@@ -100,7 +105,7 @@
 ## 📡 Ground Control & Communications
 
 <p align="center">
-  <a href="www.linkedin.com/in/abivarsan-yogeswaran-ab4447306" target="_blank">
+  <a href="https://www.linkedin.com/in/abivarsan-yogeswaran-ab4447306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ground Control LinkedIn" />
   </a>
   &nbsp;&nbsp;
